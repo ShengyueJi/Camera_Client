@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Camera_Client", "Camera_Client\Camera_Client.vcxproj", "{86A67A39-81C3-4473-941E-92F80D47B942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A67A39-81C3-4473-941E-92F80D47B942}.Debug|Win32.ActiveCfg = Debug|Win32
+		{86A67A39-81C3-4473-941E-92F80D47B942}.Debug|Win32.Build.0 = Debug|Win32
+		{86A67A39-81C3-4473-941E-92F80D47B942}.Release|Win32.ActiveCfg = Release|Win32
+		{86A67A39-81C3-4473-941E-92F80D47B942}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
